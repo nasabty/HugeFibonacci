@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1559617397 source:c:\users\nasba\onedrive\documents\data structures\projects\huge fib\fibonacci\fibonacci.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<limits.h>
+	"Fibonacci.h"
+
+1559141957 c:\users\nasba\onedrive\documents\data structures\projects\huge fib\fibonacci\fibonacci.h
+
+1559272148 source:c:\users\nasba\onedrive\documents\data structures\projects\huge fib\fibonacci\testcase01.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"Fibonacci.h"
+
+1559141957 source:c:\users\nasba\onedrive\documents\data structures\projects\huge fib\fibonacci\testcase02.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"Fibonacci.h"
+
+1559141957 source:c:\users\nasba\onedrive\documents\data structures\projects\huge fib\fibonacci\testcase03.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"Fibonacci.h"
+
+1559141957 source:c:\users\nasba\onedrive\documents\data structures\projects\huge fib\fibonacci\testcase04.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"Fibonacci.h"
+
+1559141957 source:c:\users\nasba\onedrive\documents\data structures\projects\huge fib\fibonacci\testcase05.c
+	<stdio.h>
+	"Fibonacci.h"
+
